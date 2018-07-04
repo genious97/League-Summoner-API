@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace User_Interface.Properties
+namespace LeagueSummonerAPI.Properties
 {
 
 
